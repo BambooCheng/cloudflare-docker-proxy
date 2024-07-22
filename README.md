@@ -30,11 +30,11 @@
    - add more records and modify the config as you need
    ```javascript
    const routes = {
-     "docker.d.bamtech.top": "https://registry-1.docker.io",
-     "quay.d.bamtech.top": "https://quay.io",
-     "gcr.d.bamtech.top": "https://k8s.gcr.io",
-     "k8s-gcr.d.bamtech.top": "https://k8s.gcr.io",
-     "ghcr.d.bamtech.top": "https://ghcr.io",
+     "docker.mirror.bamtech.top": "https://registry-1.docker.io",
+     "quay.mirror.bamtech.top": "https://quay.io",
+     "gcr.mirror.bamtech.top": "https://k8s.gcr.io",
+     "k8s-gcr.mirror.bamtech.top": "https://k8s.gcr.io",
+     "ghcr.mirror.bamtech.top": "https://ghcr.io",
    };
    ```
 
